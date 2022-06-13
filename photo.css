@@ -1,0 +1,17 @@
+img
+{
+    height: 200px;
+    width: 200px;
+}
+body
+{
+    background-image: url("img/fondo.jpg");
+}
+h2
+{
+    color: aliceblue;
+}
+a
+{
+    color: blanchedalmond;
+}

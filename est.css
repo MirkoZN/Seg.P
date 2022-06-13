@@ -1,0 +1,29 @@
+img
+{
+    height: 150px;
+    width: 140px;
+    
+}
+b
+{
+    background-color: rgb(198, 211, 25);
+}
+h2
+{
+    color: azure;
+}
+table
+{
+    background-size: 40%;
+    background-image: url("img/rg.jpg");
+    color: azure;
+}
+body
+{
+    background-image: url("img/fondo.jpg");
+}
+p
+{
+    background-color: rgb(67, 179, 39);
+    color:rgb(224, 214, 214);
+}
